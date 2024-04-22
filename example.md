@@ -1,3 +1,3 @@
 hello git !
 
-new Feature !
+feature A!
